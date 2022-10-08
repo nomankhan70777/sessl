@@ -1,0 +1,21 @@
+{
+    "name": "nomankhan70777/sessl",
+    "description": "for testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Noman Khan",
+            "email": "nomankhan70777@gmail.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Joem\\App\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+	"minimum-stability": "dev",
+    "prefer-stable": true
+}
