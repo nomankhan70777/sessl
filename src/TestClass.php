@@ -8,4 +8,8 @@ class TestClass
         return [1,2,4,5];
     }
 
+    public function testFunction1(){
+        return "Hello World";
+    }
+
 }
